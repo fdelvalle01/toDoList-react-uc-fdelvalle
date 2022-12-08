@@ -1,0 +1,59 @@
+#divPadre {
+    height:100px;
+    width:800px;
+    text-align:center;
+    margin:0px auto;
+}
+#divHijo {
+     margin:0px auto;
+}
+
+.TableTask{
+    margin:0px auto;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+  }
+  
+
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  }
+
+  input[type=text], select {
+    width: 100%;
+    padding: 5px 20px;
+ 
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  #textNoExitTask{
+      text-align:center;
+      padding:8px;
+  }
+
+  .divButton{
+    margin-top: 20px;
+    text-align:center;
+  }
